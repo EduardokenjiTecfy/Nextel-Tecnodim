@@ -1,0 +1,111 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.PDF.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Core.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Vision.V1.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\System.Interactive.Async.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.barcode.1d.writer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Core.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\System.Interactive.Async.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.csproj.CastPdfTiffNextel.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.csprojResolveAssemblyReference.cache
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.exe.config
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.exe
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.pdb
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Core.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\System.Interactive.Async.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.barcode.1d.writer.dll
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Core.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Protobuf.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\System.Interactive.Async.xml
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.csprojResolveAssemblyReference.cache
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.csproj.CoreCompileInputs.cache
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.exe
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.pdb
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.pdb
+C:\Users\Leo Domeneghetti\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.exe.config
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.exe
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\CastPdfTiffNextel.pdb
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.PDF.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Core.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Storage.V1.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\System.Interactive.Async.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.barcode.1d.writer.dll
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\GdPicture.NET.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.pdb
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.pdb
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Api.Gax.Rest.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Auth.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Core.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Storage.V1.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Cloud.Vision.V1.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Google.Protobuf.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\bin\Debug\System.Interactive.Async.xml
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.csprojResolveAssemblyReference.cache
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.csproj.CopyComplete
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.exe
+C:\Users\leonardo.domeneghett\Desktop\CastPdfTiffNextel\CastPdfTiffNextel\obj\Debug\CastPdfTiffNextel.pdb
